@@ -121,8 +121,8 @@ Each model is evaluated using:
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/your-username/loan-repayment-prediction.git
-   cd loan-repayment-prediction
+   git clone https://github.com/Surajit-maity110/Loan-repayment-prediction.git
+   cd Loan-repayment-prediction
 
 2. **Install Dependencies** - pip install -r requirements.txt
 
